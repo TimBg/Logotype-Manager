@@ -1,0 +1,26 @@
+.mainpage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mainpage__title {
+    margin: 20px auto;
+}
+
+.mainpage__logotypes ul {
+    list-style-type: none;
+    margin-left: 150px;
+}
+
+.mainpage__logotypes {
+    width: 100%;
+}
+
+.mainpage__logotypes ul li:nth-child(1) {
+    margin-top: 50px;
+}
+
+.navlink {
+    max-width: 1000px;
+}

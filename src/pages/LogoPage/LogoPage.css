@@ -1,0 +1,28 @@
+.logo-page__logotypes {
+    max-width: 400px;
+    margin: 40px auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.logo-page__logo {
+    display: flex;
+    flex-direction: column;
+}
+
+.logo-page__title h1 {
+    max-width: 150px;
+    margin: 40px auto !important;
+}
+
+.logo-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-1 {
+    margin-right: 90px;
+    margin-left: -115px;
+}
